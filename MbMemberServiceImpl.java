@@ -1,6 +1,8 @@
 package com.sinochem.member.biz.impl;
 yty5601117
 
+0519提交
+
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
 import com.eyeieye.melody.util.uuid.UUIDGenerator;
