@@ -29,7 +29,7 @@ public class SysBankServiceImpl extends BaseServiceImpl<SysBank, String, SysBank
 		return null;
 	}
 	/**
-	 * 将银行信息缓存到redis中
+	 * 将银行信息缓存到redis中淡淡的
 	 */
 	@PostConstruct
 	private void PostConstruct(){
